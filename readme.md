@@ -15,6 +15,8 @@ I have no training in any field that would let me confidently analyze the proven
 
 I mainly started this project in order to have a chronological record of every important book, so I could read them in order. I began mainy by copying wikipedia (see considerations in the copyright section far below to see why this is perfectly legal), an internet-based community-collaborative encyclopedia, though I did not begin my project on wikipedia out of fear they would delete it for being too good and too detailed. See this essay by Gwern Branwen for more on that fear: https://www.gwern.net/In-Defense-Of-Inclusionism
 
+However, anyone may suggest to me edits or additions to the _Canon_.
+
 I was initially interested in the philosophical canon, but my interests expanded to the biblical canon, the literary canon, etc, until I felt like I should have a project about all canons. Ideally I would have a database of every book ever written, and simply rank them by influence, but that seems hard.
 
 ## Inclusion
@@ -28,6 +30,8 @@ There is a certain amount of arbitrariness in what I consider a single work. For
 Before a certain date, every book yet surviving is notable. I don't know when this point is, but I suspect it's certainly before 1460, which would be several years after the Gutenberg Bible and thus the inception of a new culture of text-production. Note, however, that physical artefacts like the Gutenberg Bible are NOT what this list is about, this list is about the texts themselves. No new editions or translations of a work would be considered as separate entities for inclusion on this list unless the revision was extremely radical (in which case, the revision may be considered the canonical version of the work).
 
 After a certain date, a work is too recent for me to form an opinion about whether it's notable. I think this is certainly no less than 10 years in the past. Many things more recent than 10 years ago seem notable but are completely without staying power.
+
+I don't expect there to ever be an end to the production of important texts, and I hope to live forever, so presumably the _Canon_ will be continually revised, forever. With great infrequence. I think it's extremely unlikely I will ever remove anything from this list once I insert it, as to be important in a certain age makes a text notable in general.
 
 Should lost works be included in this list? In favor of this, we have the notion that a work may be influential even if it is lost. Against this, we have the notion that the point of this list is to read all of them, which cannot be done with lost works. I expect populating this list will expose me to many examples with which I shall make up my mind.
 
