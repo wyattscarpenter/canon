@@ -52,9 +52,10 @@ This project was begun in 2021 in the United States of America and uses the conv
 Under United States of America copyright law, this collection is ineligible for copyright as it is a list arranged in a non-creative manner (chronologically). However, the USA is not the only country, my selection of works may be seen as creative, and this explanation is certainly an original composition, so I may be seen to hold a copyright over some aspects of this project. I wish to hold no copyright on this project, so it may become a truly public resource. Therefore, I release this entire project under the CC0 license, which may be found at https://creativecommons.org/publicdomain/zero/1.0/legalcode or in the license.txt of this project (note that the legal code itself has also been released into the public domain by the Creative Commons organization https://creativecommons.org/policies#licensing%20statement).
 
 ## TODO:
-Make a big CSV of evey important text thus far.
-Figure out how to cite things (this may be a pain).
-Create the visualization.
+* Make a big CSV of evey important text thus far.
+* Figure out how to cite things (this may be a pain).
+* Create the visualization.
 
 Love,
+
 Wyatt S Carpenter
